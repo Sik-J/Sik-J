@@ -11,9 +11,9 @@
 <br>
 
 <div align="center" style="display:flex; flex-direction:row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJaeSik&layout=compact&theme=dark">&nbsp&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sik-J&layout=compact&theme=dark">&nbsp&nbsp&nbsp
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJaeSik&layout=donut&theme=dark"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SeoJaeSik&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sik-J&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only">
 </div>
 
 <br>
@@ -67,6 +67,7 @@
   <a href="mailto:sdvilzty@naver.com">
     <img src="https://img.shields.io/badge/NAVER-E?style=for-the-badge&logo=naver&logoColor=white">
   </a>
+  sdvilzty@naver.com
 </div>
 
 <!-- 뱃지 참조 https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file -->
